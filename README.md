@@ -69,10 +69,35 @@ This project aims to provide a comprehensive platform for:
 ## Installation
 
 ### Prerequisites
-- **Git** – for cloning the repository.
-- **Node.js or Python** – depending on the implementation (adjust instructions accordingly).
-- **Docker (optional)** – for containerized deployment.
-- API keys for your chosen LLM provider(s).
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Git-Required-blue?style=for-the-badge" alt="Git"><br>
+        <strong>Git</strong><br>
+        Essential for cloning the repository.
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Node.js%20or%20Python-Required-blue?style=for-the-badge" alt="Node.js or Python"><br>
+        <strong>Node.js or Python</strong><br>
+        Required for implementation.
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/Docker-Optional-blue?style=for-the-badge" alt="Docker"><br>
+        <strong>Docker (Optional)</strong><br>
+        For containerized deployment.
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://img.shields.io/badge/API%20Keys-Required-blue?style=for-the-badge" alt="API Keys"><br>
+        <strong>API Keys</strong><br>
+        For your chosen LLM provider(s).
+      </td>
+    </tr>
+  </table>
+</div>
 
 ### Steps
 
