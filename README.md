@@ -21,8 +21,6 @@ Welcome to the **AI & LLMs** project repository! This project is dedicated to ex
 [![Installation](https://img.shields.io/badge/Installation-blue?style=flat-square)](#installation)
 [![Usage](https://img.shields.io/badge/Usage-blue?style=flat-square)](#usage)
 [![Architecture](https://img.shields.io/badge/Architecture-blue?style=flat-square)](#architecture)
-[![Contributing](https://img.shields.io/badge/Contributing-blue?style=flat-square)](#contributing)
-[![License](https://img.shields.io/badge/License-blue?style=flat-square)](#license)
 [![Contact](https://img.shields.io/badge/Contact-blue?style=flat-square)](#contact)
 
 </div>
@@ -165,17 +163,11 @@ We welcome contributions from the community! If you’d like to help improve thi
 3. **Commit Your Changes:** Follow best practices and include detailed commit messages.
 4. **Push to Your Branch and Open a Pull Request.**
 
-Please review our [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
----
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Contact
-For questions, suggestions, or feedback, please open an issue on GitHub or contact us at [email@example.com](mailto:email@example.com).
+For questions, suggestions, or feedback, please open an issue on GitHub or contact us.
 
 ---
 
