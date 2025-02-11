@@ -11,16 +11,21 @@ Welcome to the **AI & LLMs** project repository! This project is dedicated to ex
 ---
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Background](#background)
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+<div align="center">
+
+[![Introduction](https://img.shields.io/badge/Introduction-blue?style=flat-square)](#introduction)
+[![Background](https://img.shields.io/badge/Background-blue?style=flat-square)](#background)
+[![Project Overview](https://img.shields.io/badge/Project%20Overview-blue?style=flat-square)](#project-overview)
+[![Features](https://img.shields.io/badge/Features-blue?style=flat-square)](#features)
+[![Installation](https://img.shields.io/badge/Installation-blue?style=flat-square)](#installation)
+[![Usage](https://img.shields.io/badge/Usage-blue?style=flat-square)](#usage)
+[![Architecture](https://img.shields.io/badge/Architecture-blue?style=flat-square)](#architecture)
+[![Contributing](https://img.shields.io/badge/Contributing-blue?style=flat-square)](#contributing)
+[![License](https://img.shields.io/badge/License-blue?style=flat-square)](#license)
+[![Contact](https://img.shields.io/badge/Contact-blue?style=flat-square)](#contact)
+
+</div>
 
 ---
 
