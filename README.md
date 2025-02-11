@@ -1,6 +1,9 @@
-```markdown
-# AI & LLMs: Building Intelligent Assistants and Chatbot Frameworks
-![AI Assistant Demo](ai.gif)
+
+<div align="center">
+  <h1>AI & LLMs: Building Intelligent Assistants and Chatbot Frameworks</h1>
+  <img src="ai.gif" alt="AI Assistant Demo">
+</div>
+
 
 Welcome to the **AI & LLMs** project repository! This project is dedicated to exploring and developing next-generation AI assistants and chatbot frameworks powered by Large Language Models (LLMs). Whether you’re a developer eager to experiment with cutting-edge AI or a business looking to integrate intelligent assistants into your workflow, this repository is your starting point.
 
